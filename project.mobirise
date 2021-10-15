@@ -50,7 +50,7 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "jht5pwnbas",
+    "mbrsiteDomain": "i8tjdmk29p",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
@@ -125,7 +125,7 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-section-title": {
-              "text-align": "left"
+              "text-align": "center"
             },
             ".mbr-section-subtitle": {
               "text-align": "left"
