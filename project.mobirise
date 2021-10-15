@@ -29,7 +29,9 @@
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#05f4b7"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "5.0.2",
@@ -50,7 +52,7 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "yem3vnr95d",
+    "mbrsiteDomain": "5gmixudyy4",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
@@ -88,7 +90,7 @@
               "color": "#fafafa"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#fafafa",
+              "color": "#05f4b7",
               "text-align": "center"
             },
             "@media (max-width: 991px)": {
