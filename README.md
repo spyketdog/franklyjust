@@ -1,2 +1,3 @@
 # franklyjust
-FranklyJust Website Deploys
+
+FranklyJust Website Deploys at https://franklyjust.com with Netlify Hosting.
