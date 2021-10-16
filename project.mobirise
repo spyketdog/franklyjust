@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FranklyJust",
-    "currentPage": "page1.html",
+    "currentPage": "ContactUs.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -52,14 +52,19 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "5gmixudyy4",
+    "mbrsiteDomain": "8yotnlqmt4",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
     "siteUrl": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {
@@ -741,7 +746,7 @@
         }
       ]
     },
-    "page1.html": {
+    "ContactUs.html": {
       "settings": {
         "title": "Contact Us",
         "order": 1,
