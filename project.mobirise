@@ -30,7 +30,8 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#05f4b7"
+        "#05f4b7",
+        "#149dcc"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -52,7 +53,7 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "8yotnlqmt4",
+    "mbrsiteDomain": "ifvnrtuhlx",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
@@ -60,7 +61,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "gdpr": {
       "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
+      "colorLink": "#2299aa",
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
